@@ -573,3 +573,18 @@ input[type=checkbox]:checked + label {
   margin-top: 2rem; }
   .todo-list-footer .btn {
     border-radius: .4rem; }
+    textarea{
+      height: 120px;
+    }
+    .alert{
+      color: black;
+      text-align: center;
+    }
+    .jumbotron{
+      background-color: #D0D1FF;
+      margin-bottom: 0px;
+    }
+    .notas a{
+      text-decoration:none;
+      color: white;
+    }
